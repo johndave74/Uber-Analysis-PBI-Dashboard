@@ -5,7 +5,8 @@ This project includes full DAX modeling, data transformations, KPI calculations,
 
 ---
 
-"C:\Users\user\OneDrive\Documents\Data Folder\Uber Analysis Project\Uber Analysis 2x.mp4"
+<img width="1059" height="592" alt="Screenshot 2025-11-19 112256" src="https://github.com/user-attachments/assets/9c67cb72-6815-446d-8b23-d2aa8d505d1b" />
+
 
 ## 📌 Project Overview
 
@@ -13,12 +14,23 @@ This project analyzes Uber booking and trip data to identify key business metric
 
 * Total Trips
 * Completed vs Cancelled Trips
+
+<img width="1056" height="594" alt="Screenshot 2025-11-19 112308" src="https://github.com/user-attachments/assets/14b1ef32-7ab7-489c-81f8-93494ff7d910" />
+
+
 * Customer Behavior Patterns
 * Cancellation Insights (Customer + Driver)
+
+<img width="1058" height="594" alt="Screenshot 2025-11-19 112356" src="https://github.com/user-attachments/assets/2353453a-7967-4f9e-9dc5-639e2b0e9af3" />
+
+
 * Time-of-Day Booking Trends
 * Ride Distance & Value Metrics
 * Estimated Driver Activity
 * Ratings Analysis
+
+<img width="1057" height="596" alt="Screenshot 2025-11-19 112415" src="https://github.com/user-attachments/assets/b955316b-aa93-41b2-8cf4-cb37564f5faa" />
+
 
 The final dashboard enables the business to understand performance, detect issues, and optimize ride operations.
 
